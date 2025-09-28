@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\bin\Debug\alaa alharg.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\bin\Debug\alaa alharg.exe
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\bin\Debug\alaa alharg.pdb
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\bin\Debug\alaa alharg.xml
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa alharg.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa_alharg.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa_alharg.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa alharg.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa alharg.exe
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa alharg.xml
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa alharg.pdb
+c:\users\pc\documents\visual studio 2015\Projects\alaa alharg\alaa alharg\obj\Debug\alaa_alharg.Form2.resources
